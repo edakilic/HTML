@@ -1,0 +1,12 @@
+body {font-family: Pacifico;}
+
+h1 {font-family: Impact;
+text-align: center;}
+
+p {font-size: 30px;}
+
+#eda {border: 7px solid blueviolet;
+padding: 10px;
+margin: 50px;}
+
+#canan {border: 7px dashed palevioletred;}
